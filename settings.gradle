@@ -1,0 +1,3 @@
+include ':Tinkoff'
+rootProject.name='Musorka2'
+include ':app'
